@@ -1,7 +1,7 @@
 # 📊 Sales Insights Dashboard
 
 <p align="center">
-  <img src="Dashboard.png" alt="Sales Dashboard" width="900">
+  <img src="Dashboard.png" alt="Sales Dashboard" width="800">
 </p>
 
 ## Overview
@@ -59,8 +59,3 @@ An interactive Sales Insights Dashboard built using **Power BI, MySQL, and Excel
 🔗 [View Dashboard Image](https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/Dashboard.png)
 
 ---
-
-### Author
-
-**Yash Mishra**
-Computer Science Undergraduate | Data Analytics & Business Intelligence Enthusiast

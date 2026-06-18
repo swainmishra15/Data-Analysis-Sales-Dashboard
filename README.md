@@ -134,9 +134,12 @@ Supports time-based analysis and trend reporting.
 
 ---
 
-### Main Dashboard
+###Dashboard Interaction
+<a href="https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
-![Dashboard Screenshot](screenshots/Dashboard.png)
+---
+##Dashboard 
+<img width="955" height="495" alt="Dashboard" src="https://github.com/user-attachments/assets/2eca47b1-088c-400d-8e00-49e5bef85a4a" />
 
 ---
 

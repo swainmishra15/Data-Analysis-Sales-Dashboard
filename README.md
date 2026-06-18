@@ -1,2 +1,3 @@
-# Data-Analysis-Sales-Dashboard
-Developed a Sales Trend Analysis Dashboard using Power BI, Excel, and MySQL to transform raw sales data into actionable business insights with interactive charts, trend analysis.
+Overview
+
+This project is an interactive Sales Trend Visualization Dashboard developed using Power BI, Excel, and MySQL. The dashboard transforms raw sales data into meaningful business insights, helping stakeholders monitor performance, identify trends, and make data-driven decisions.

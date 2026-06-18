@@ -18,7 +18,9 @@ The project transforms raw transactional data into interactive visualizations, e
 
 ---
 ## Dataset Used
-- <a href="
+- <a href="https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/db_dump.sql">Dataset</a>
+---
+
 ## 🛠️ Tech Stack
 
 | Tool            | Purpose                               |
@@ -31,25 +33,19 @@ The project transforms raw transactional data into interactive visualizations, e
 ---
 
 ## 📂 Dataset Information
-
 The project uses a relational sales database consisting of the following tables:
 
 ### Customers
-
 Contains customer information and customer types.
 
 ### Products
-
 Stores product-related details.
 
 ### Markets
-
 Contains market locations and zone information.
 
 ### Transactions
-
 Stores sales transactions including:
-
 * Product Code
 * Customer Code
 * Market Code
@@ -59,36 +55,31 @@ Stores sales transactions including:
 * Currency
 
 ### Date
-
 Supports time-based analysis and trend reporting.
 
 ---
 
 ## 📈 Dashboard Features
-
 ### Executive KPIs
 
 * Total Revenue
 * Total Sales Quantity
 * Revenue Growth Analysis
 * Market Performance Overview
-
+  
 ### Sales Analysis
-
 * Revenue by Market
 * Revenue Trend by Year and Month
 * Sales Quantity Analysis
 * Customer-wise Revenue Contribution
 
 ### Interactive Filters
-
 * Market Filter
 * Product Filter
 * Customer Filter
 * Time-Based Filtering
 
 ### Visualizations
-
 * KPI Cards
 * Line Charts
 * Bar Charts
@@ -98,7 +89,6 @@ Supports time-based analysis and trend reporting.
 ---
 
 ## 🔄 Project Workflow
-
 1. Imported sales data into MySQL database.
 2. Performed SQL queries for data extraction and validation.
 3. Cleaned and prepared data using Excel.
@@ -135,44 +125,11 @@ Supports time-based analysis and trend reporting.
 
 ---
 
-###Dashboard Interaction
+### Dashboard Interaction
 <a href="https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ---
-##Dashboard 
+## Dashboard 
 <img width="955" height="495" alt="Dashboard" src="https://github.com/user-attachments/assets/2eca47b1-088c-400d-8e00-49e5bef85a4a" />
 
 ---
-
-## 📁 Repository Structure
-
-```text
-Sales-Insights-Dashboard/
-│
-├── Sales_Trend_Visualisation.pbix
-├── db_dump.sql
-├── README.md
-├── screenshots/
-│   └── dashboard.png
-└── assets/
-```
-
----
-
-## Future Enhancements
-
-* Real-time data refresh.
-* Sales forecasting using Machine Learning.
-* Customer segmentation analysis.
-* Advanced profitability analysis.
-* Automated reporting pipelines.
-
----
-
-## Author
-
-**Yash Mishra**
-
-Computer Science Undergraduate
-
-Interested in Data Analytics, Business Intelligence, Cloud Computing, and DevOps.

@@ -1,135 +1,66 @@
 # 📊 Sales Insights Dashboard
 
+<p align="center">
+  <img src="Dashboard.png" alt="Sales Dashboard" width="900">
+</p>
+
 ## Overview
 
-The Sales Insights Dashboard is a Business Intelligence project developed using **Power BI, MySQL, and Excel** to analyze sales performance across different markets, customers, and products.
+An interactive Sales Insights Dashboard built using **Power BI, MySQL, and Excel** to analyze revenue, sales quantity, customer performance, and market trends. The dashboard helps stakeholders monitor key business metrics and make data-driven decisions.
 
-The project transforms raw transactional data into interactive visualizations, enabling stakeholders to monitor revenue trends, identify high-performing markets, track sales growth, and make data-driven business decisions.
+## 🚀 Key Features
 
----
-
-## 🚀 Project Objectives
-
-* Analyze overall sales performance and revenue trends.
-* Identify top-performing markets and customers.
-* Monitor sales quantity and sales amount over time.
-* Provide actionable insights through interactive dashboards.
-* Support business decision-making with data visualization.
-
----
-## Dataset Used
-- <a href="https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/db_dump.sql">Dataset</a>
----
+* Revenue and Sales Quantity Tracking
+* Market-wise Sales Analysis
+* Customer Performance Analysis
+* Time-based Trend Analysis
+* Interactive Filters and Drill-downs
+* KPI Monitoring Dashboard
 
 ## 🛠️ Tech Stack
 
-| Tool            | Purpose                               |
-| --------------- | ------------------------------------- |
-| Power BI        | Dashboard Development & Visualization |
-| MySQL           | Data Storage & Querying               |
-| Microsoft Excel | Data Cleaning & Validation            |
-| SQL             | Data Extraction & Transformation      |
+* Power BI
+* MySQL
+* SQL
+* Microsoft Excel
 
----
+## 📂 Dataset
 
-## 📂 Dataset Information
-The project uses a relational sales database consisting of the following tables:
+* Sales Transactions
+* Customers
+* Products
+* Markets
+* Date Table
 
-### Customers
-Contains customer information and customer types.
+📄 Dataset: [View Dataset](https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/db_dump.sql)
 
-### Products
-Stores product-related details.
+## 📈 Dashboard Insights
 
-### Markets
-Contains market locations and zone information.
+* Identified top-performing markets by revenue.
+* Analyzed customer contribution to overall sales.
+* Tracked monthly and yearly revenue trends.
+* Monitored sales quantity across different regions.
+* Highlighted business growth opportunities through KPI analysis.
 
-### Transactions
-Stores sales transactions including:
-* Product Code
-* Customer Code
-* Market Code
-* Order Date
-* Sales Quantity
-* Sales Amount
-* Currency
+## 🔄 Workflow
 
-### Date
-Supports time-based analysis and trend reporting.
-
----
-
-## 📈 Dashboard Features
-### Executive KPIs
-
-* Total Revenue
-* Total Sales Quantity
-* Revenue Growth Analysis
-* Market Performance Overview
-  
-### Sales Analysis
-* Revenue by Market
-* Revenue Trend by Year and Month
-* Sales Quantity Analysis
-* Customer-wise Revenue Contribution
-
-### Interactive Filters
-* Market Filter
-* Product Filter
-* Customer Filter
-* Time-Based Filtering
-
-### Visualizations
-* KPI Cards
-* Line Charts
-* Bar Charts
-* Trend Analysis
-* Comparative Performance Views
-
----
-
-## 🔄 Project Workflow
-1. Imported sales data into MySQL database.
-2. Performed SQL queries for data extraction and validation.
-3. Cleaned and prepared data using Excel.
-4. Connected Power BI to MySQL.
-5. Built data model and relationships.
-6. Created calculated measures and KPIs.
-7. Designed interactive dashboard and visual reports.
-8. Generated business insights from sales trends.
-
----
-
-## 💡 Key Insights Generated
-
-* Identification of top revenue-generating markets.
-* Analysis of customer purchasing behavior.
-* Monthly and yearly sales trend monitoring.
-* Comparison of market performance across regions.
-* Detection of revenue fluctuations and growth opportunities.
-
----
+1. Data Extraction from MySQL
+2. Data Cleaning using Excel
+3. Data Modeling in Power BI
+4. KPI Creation and DAX Measures
+5. Dashboard Development and Visualization
 
 ## 🎯 Skills Demonstrated
 
-* Data Analysis
-* Business Intelligence
-* Dashboard Design
-* SQL Querying
-* Data Modeling
-* Data Cleaning
-* KPI Development
-* Power BI Visualization
-* Problem Solving
-* Analytical Thinking
+`Power BI` • `SQL` • `MySQL` • `Excel` • `Data Cleaning` • `Data Modeling` • `Business Intelligence` • `Data Visualization`
+
+## Dashboard
+
+🔗 [View Dashboard Image](https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/Dashboard.png)
 
 ---
 
-### Dashboard Interaction
-<a href="https://github.com/swainmishra15/Data-Analysis-Sales-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+### Author
 
----
-## Dashboard 
-<img width="955" height="495" alt="Dashboard" src="https://github.com/user-attachments/assets/2eca47b1-088c-400d-8e00-49e5bef85a4a" />
-
----
+**Yash Mishra**
+Computer Science Undergraduate | Data Analytics & Business Intelligence Enthusiast

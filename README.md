@@ -134,13 +134,9 @@ Supports time-based analysis and trend reporting.
 
 ---
 
-## 📸 Dashboard Preview
-
-Add screenshots of your dashboard here.
-
 ### Main Dashboard
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/Dashboard.png)
 
 ---
 
